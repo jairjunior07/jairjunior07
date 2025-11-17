@@ -1,16 +1,20 @@
-## Hi there 👋
+## Olá, sou o Jair Junior! 👋
 
-<!--
-**jairjunior07/jairjunior07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um **Estudante de Análise e Desenvolvimento de Sistemas (ADS)**, apaixonado por tecnologia e focado em transformar problemas de negócio em soluções digitais eficientes.
 
-Here are some ideas to get you started:
+### O que você pode encontrar por aqui:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 **Estudando Atualmente:** Estou focado em consolidar meus conhecimentos em Estrutura de Dados e aprofundar minha proficiência em **JavaScript/TypeScript** no *backend* (Node.js) e **React** no *frontend*.
+
+- 💻 **Foco de Carreira:** Busco meu primeiro estágio ou oportunidade como Desenvolvedor Júnior, onde eu possa aplicar o que aprendi sobre **Metodologias Ágeis (Scrum)** e **Design de Sistemas**.
+
+- 🔭 **Projetos:** Atualmente, estou trabalhando em um projeto pessoal para aplicar **CRUD** completo e **testes unitários**.
+
+- 🤝 **Colaboração:** Estou sempre aberto a colaborar em projetos *open source* ou desafios de programação que envolvam **Python** ou **criação de APIs RESTful**.
+
+- 🤔 **Procurando ajuda com:** Gostaria de dicas sobre como otimizar a performance de consultas SQL em projetos de grande escala.
+
+- 📫 **Como me encontrar:** - [Seu LinkedIn] (Adicione o link do seu LinkedIn aqui!)
+  - [Seu E-mail] (Adicione o seu e-mail aqui!)
+
+- ⚡ **Curiosidade:** Meu foco principal não é só código; gosto de entender a **arquitetura de software** e o impacto das decisões de design no longo prazo.
