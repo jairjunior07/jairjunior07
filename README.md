@@ -14,7 +14,7 @@ Sou um **Estudante de Análise e Desenvolvimento de Sistemas (ADS)**, apaixonado
 
 - 🤔 **Procurando ajuda com:** Gostaria de dicas sobre como otimizar a performance de consultas SQL em projetos de grande escala.
 
-- 📫 **Como me encontrar:** - [Seu LinkedIn] (Adicione o link do seu LinkedIn aqui!)
-  - [Seu E-mail] (Adicione o seu e-mail aqui!)
+- 📫 **Como me encontrar:** - [jair junior] (https://www.linkedin.com/in/jair-junior-767053381/)
+  - [jairjunior884@gmail.com] 
 
 - ⚡ **Curiosidade:** Meu foco principal não é só código; gosto de entender a **arquitetura de software** e o impacto das decisões de design no longo prazo.
